@@ -4,6 +4,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-ff6f00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c)
 
+Mehr zum Buch steht auf [meiner Website](https://portfolio.bennybotsch.workers.dev/de/projekte/maschinelles-lernen/).
+
 Dieses Repository enthält die Python-Beispiele zum Buch *Maschinelles Lernen. Grundlagen und Anwendungen. Mit Beispielen in Python* (Springer Spektrum, 2023). Jedes Verzeichnis gehört zu einem Kapitel, und jedes Skript lässt sich einzeln ausführen.
 
 <img src="https://user-images.githubusercontent.com/39590031/229341924-7b64acbf-7909-4474-9e45-0bc3845182ba.png" alt="Cover des Buchs Maschinelles Lernen" width="220">
